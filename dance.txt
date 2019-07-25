@@ -1,0 +1,5 @@
+swipe left.
+swipe right.
+jump up.
+pause.
+do whatever the hell you want just do it well.
